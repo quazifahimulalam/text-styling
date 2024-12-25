@@ -1,0 +1,27 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.paragraph1{
+    font-style: italic;
+}
+.paragraph2{
+    font-weight: bold;
+}
+.paragraph3{
+    text-decoration: underline;
+}
+.paragraph4{
+    text-transform: uppercase;
+}
+.paragraph5{
+    transform: rotate(20deg);
+}
+.paragraph6{
+    text-shadow: 2px 2px 2px cadetblue;
+}
+.paragraph7{
+    box-shadow: 2px 2px 2px cornflowerblue;
+}
+.paragraph8{
+    text-indent: 30px ;
+}
